@@ -11,14 +11,21 @@
 
 ۱. ابتدا مطمئن شوید پایتون روی سیستم شما نصب است.
 اگر نصب نیست :
+```bash
 pkg install python
 pkg install git
+```
 اگر در لینوکس هستید اینها به صورت خودکار نصب هستند
 
 ۲. کلون کردن مخزن:
+```bash
 git clone https://github.com/monibyousefi90/sms-bomber.git
 cd sms-bomber
+```
 ۴. اجرا:
+```bash
 python sms.py
-لذت ببرید و حتما در چنل تلگرام ما جوین بدید 
+```
+لذت ببرید و حتما در چنل تلگرام ما جوین بدید
+
 https://t.me/Sourse_code
